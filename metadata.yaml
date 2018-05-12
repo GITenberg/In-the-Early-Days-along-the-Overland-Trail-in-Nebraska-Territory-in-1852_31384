@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '35194'
     url: http://www.gutenberg.org/2009/agents/35194
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31384#In-the-Early-Days-along-the-Overland-Trail-in-Nebraska-Territory-in-1852
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
