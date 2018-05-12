@@ -1,0 +1,36 @@
+_repo: In-the-Early-Days-along-the-Overland-Trail-in-Nebraska-Territory-in-1852_31384
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hardy, A. S., Mrs.
+    aliases:
+    - Hardy, Mrs. A. S.
+    - Hardy, Mary Earle, Mrs.
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '35187'
+    url: http://www.gutenberg.org/2009/agents/35187
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Gilbert L.
+    gutenberg_agent_id: '35194'
+    url: http://www.gutenberg.org/2009/agents/35194
+description: ''
+gutenberg_issued: '2010-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31384'
+  lccn: '22014882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Overland journeys to the Pacific'
+- !lcc 'F590.3'
+- !lcsh 'Nebraska'
+title: In the Early Days along the Overland Trail in Nebraska Territory, in 1852
+url: http://www.gutenberg.org/ebooks/31384
